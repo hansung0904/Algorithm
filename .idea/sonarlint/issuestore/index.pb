@@ -13,3 +13,9 @@ O
 src/ifquestion/IfQuestion3.java,f\0\f0fadab842a59c7d6af2c311f5abdfa1e98b2502
 O
 src/ifquestion/IfQuestion4.java,d\1\d18b539c6497e28b3cb83349d2b71ff99705af97
+O
+src/ifquestion/IfQuestion6.java,6\e\6ee8a55e3699ac450933bf8fbc9e044e27d21ced
+O
+src/ifquestion/IfQuestion5.java,3\e\3e847312da924718d17e65912784a5456170e9f9
+O
+src/ifquestion/IfQuestion7.java,e\4\e447e7bbf76f38e273e05670f358620c33f75469
