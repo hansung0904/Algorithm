@@ -37,3 +37,11 @@ Q
 !src/forquestion/ForQuestion1.java,0\c\0c7998e1facff648df9243a51b7511f586be4925
 Q
 !src/forquestion/ForQuestion5.java,0\a\0a5bacf3a52a5f667f72e3bfc8db3c78d8205bb0
+Q
+!src/forquestion/ForQuestion3.java,6\4\6449ca4490c99f3f953b186b681a4e3550a213b4
+Q
+!src/forquestion/ForQuestion9.java,a\e\ae87ba8b557c6a039bddc74817eb8ee13a0f0624
+Q
+!src/forquestion/ForQuestion8.java,2\3\23960279685bb3b23af929b4358bc7ae8fd01f53
+R
+"src/forquestion/ForQuestion14.java,2\1\21c54025d065fc7579fbe91f3e3456e5815f1cb5
