@@ -63,3 +63,13 @@ R
 "src/forquestion/ForQuestion12.java,2\f\2f410bd4d35791477ff8b4000cbfc2defbf9bdd9
 R
 "src/forquestion/ForQuestion16.java,6\d\6d6a7bb23acc52a0e4044c6c706b6696a8566920
+U
+%src/arrayquestion/arrayQuestion2.java,4\f\4f141b55878a47b2925cbbc7e8fda9f280b9321c
+U
+%src/arrayquestion/arrayQuestion1.java,6\1\61135e12b4139724989a88b7f9607225730f60c0
+U
+%src/arrayquestion/ArrayQuestion3.java,2\e\2e1b426ce3f955bc7e38d9436550c0cf815986bd
+U
+%src/arrayquestion/ArrayQuestion4.java,f\9\f9837d715ac12962f561d498a0c64d58fea86b53
+U
+%src/arrayquestion/ArrayQuestion5.java,2\3\2318ed1e3cc1cb024a158a289e64268ff0153ed0

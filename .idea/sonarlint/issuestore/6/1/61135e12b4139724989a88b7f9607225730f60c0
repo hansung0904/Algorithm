@@ -1,0 +1,10 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùßĞÿÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "numberCount".(ˆ…Ÿéøÿÿÿÿ
+K
+java:S1481"0Remove this unused "numberCount" local variable.(ˆ…Ÿéøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ºÊÿÿÿÿÿ8ª¹š¾¨0
