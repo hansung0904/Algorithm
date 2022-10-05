@@ -1,4 +1,4 @@
-package Print;
+package print;
 
 public class PrintQuestion1 {
     public static void main(String args[]) {
