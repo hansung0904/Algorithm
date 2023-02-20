@@ -36,6 +36,5 @@ public class ArrayQuestion6 {
 			}
 			System.out.printf("%.3f%%\n",(count/studentCount)*100);
 		}
-
 	}
 }
